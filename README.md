@@ -1,1 +1,7 @@
-# belajar front-end development
+Belajar Front-end Development
+
+Tools:
+- Javascript
+- NPM
+- Webpack
+- etc
